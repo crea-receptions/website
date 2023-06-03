@@ -49,7 +49,7 @@
         top: 2%;
     }
 
-    ol.lettrines: {
+    ol.lettrines {
         counter-reset: number;
     }
 

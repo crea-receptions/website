@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => '/crea-receptions-jigsaw',
+    'baseUrl' => '/website',
 ];
