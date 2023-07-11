@@ -5,39 +5,39 @@
 @layer base {
     @font-face {
         font-family: 'Black Jack';
-        src: url('/assets/fonts/BlackJack.eot');
-        src: url('/assets/fonts/BlackJack.woff') format('woff'),
-            url('/assets/fonts/BlackJackd41d.eot?#iefix') format('embedded-opentype');
+        src: url('../../../assets/fonts/BlackJack.eot');
+        src: url('../../../assets/fonts/BlackJack.woff') format('woff'),
+            url('../../../assets/fonts/BlackJackd41d.eot?#iefix') format('embedded-opentype');
         font-weight: normal;
         font-style: normal;
     }
 
     .title {
-        background-image: url('/assets/img/contour.png')
+        background-image: url('../../../assets/img/contour.png')
     }
 
     .grey-title {
-        background-image: url('/assets/img/contour-grey.png')
+        background-image: url('../../../assets/img/contour-grey.png')
     }
 
     .green-title {
-        background-image: url('/assets/img/contour-green.png')
+        background-image: url('../../../assets/img/contour-green.png')
     }
 
     .green-bloc1 {
-        background-image: url('/assets/img/bg-model-1.png')
+        background-image: url('../../../assets/img/bg-model-1.png')
     }
 
     .green-bloc3 {
-        background-image: url('/assets/img/bg-model-3.png')
+        background-image: url('../../../assets/img/bg-model-3.png')
     }
 
     .green-bloc5 {
-        background-image: url('/assets/img/bg-model-5.png')
+        background-image: url('../../../assets/img/bg-model-5.png')
     }
 
     .grey-bloc {
-        background-image: url('/assets/img/bg-model-6.png')
+        background-image: url('../../../assets/img/bg-model-6.png')
     }
 
     .grey-background {
