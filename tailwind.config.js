@@ -22,12 +22,14 @@ module.exports = {
                 "698": "698px"
             },
             inset: {
+                "65px": "65px",
                 "80px": "80px",
                 "95px": "95px",
                 "-30px": "-30px",
                 "-60px": "-60px",
                 "-80px": "-80px",
-                "-120px": "-120px"
+                "-120px": "-120px",
+                "-144px": "-144px"
             },
             lineHeight: {
                 inherit: "inherit"
