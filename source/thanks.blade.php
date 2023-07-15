@@ -8,6 +8,9 @@ title_img: /assets/img/main-contact.png
 
 @section('pagecontent')
 <div class="container relative mx-auto max-w-1166">
-Merci pour votre demande, nous vous contacterons dans les plus brefs délais.
+    <div class="flex flex-col items-center">
+        <p class="mt-20 text-xl text-gray-700">Merci pour votre <span class="text-anis">demande</span>, nous vous</p><br>
+        <p class="text-xl text-gray-700">re-contacterons dans les plus brefs délais.</p>
+    </div>
 </div>
 @endsection
