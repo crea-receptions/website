@@ -19,12 +19,15 @@ title_img: /assets/img/main-mentions.png
                 Capital : 8000€<br>
                 Siret : 47981060800022<br>
                 Dirigeant : <strong>Eric Mosa</strong></li>
-            <li class="lettrine">Le site a été réalisé par <strong>Thierry Chopain</strong> à la direction artistique
-                (<a href="http://www.thierrychopain.com/">www.thierrychopain.com</a>) et <strong>Anaïs Assil</strong> au
-                développement.</li>
-            <li class="lettrine">Il est hébergé chez&nbsp;<strong>PHPNET FRANCE –&nbsp;</strong>97-97bis rue Général
-                Mangin –&nbsp;38100
-                GRENOBLE</li>
+            <li class="lettrine">Le site a été réalisé par <strong>Patrick Tournet</strong> sur un design de <strong>Thierry Chopain</strong> 
+                (<a href="http://www.thierrychopain.com/">www.thierrychopain.com</a>)</li><br>
+            <li class="lettrine">Il est hébergé chez&nbsp;<strong><a href="https://pages.github.com/">GitHub Pages</a></strong>
+                <hr class="pb-1.5 mt-1.5">
+                GitHub, Inc.<br>
+                88 Colin P. Kelly Jr. Street<br>
+                San Francisco, CA 94107<br>
+                United States<br>
+                +1 (877) 448-4820 </li>
             <li class="lettrine"><strong>Données personnelles</strong><br>
                 Conformément à la loi informatique et liberté du 6 janvier 1978, vous disposez d’un droit d’accès, de
                 rectification, de modification, d’opposition et de supression sur les données qui vous concernent. Vous
