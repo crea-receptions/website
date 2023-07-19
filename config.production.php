@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => '/website',
+    'baseUrl' => 'https://crea-receptions.github.io/website',
 ];
