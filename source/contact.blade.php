@@ -17,7 +17,7 @@ title_img: /assets/img/main-contact.png
                     <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -left-80px"></div>
                 </div>
             </div>
-            <form action="https://formsubmit.co/crea-receptions@live.fr" method="post">
+            <form action="https://formsubmit.co/4f4c7cf0d2b3477a4e7135219887c40e" method="post">
                 <div class="relative">
                     <h2 class="pt-20 text-xl font-semibold">vos<br>coordonnées</h2>
                     <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -left-80px"></div>
