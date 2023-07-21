@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'http://www.crea-receptions.fr',
+    'baseUrl' => 'https://www.crea-receptions.fr',
 ];
