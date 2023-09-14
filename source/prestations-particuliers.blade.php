@@ -16,7 +16,7 @@ use_fancybox: true
             <div class="relative right-0 float-right pb-6 text-sm leading-6 w-55prct font-base mt-7">
                 Un évènement unique qui ne ressemble qu’à vous, notre équipe vous accompagnera à chaque étape de votre réception pour créer ensemble vos meilleurs souvenirs.
                 <div class="flex space-x-8 text-base mt-18">
-                    <div class="py-1 bg-gray-800 px-7">
+                    <div class="hidden py-1 bg-gray-800 px-7">
                         <a href="{{ $page->baseUrl }}/assets/uploads/2019_CATALOGUE_42x21.pdf">
                             <div class="font-sans font-bold text-white">
                                 télécharger le
@@ -52,7 +52,7 @@ use_fancybox: true
             <div class="relative right-0 float-left pb-6 text-sm leading-6 w-55prct font-base mt-7">
                 Envie de vous faire plaisir tout en restant chez vous, comme au restaurant passez votre commande à notre chef, entièrement sur mesure, il jouera de sa créativité pour ravir vos papilles et celles de vos convives.
                 <div class="flex space-x-8 text-base mt-18">
-                    <div class="py-1 bg-gray-800 px-7">
+                    <div class="hidden py-1 bg-gray-800 px-7">
                         <a href="{{ $page->baseUrl }}/assets/uploads/2019_CATALOGUE_42x21.pdf">
                             <div class="font-sans font-bold text-white">
                                 télécharger le
@@ -86,9 +86,9 @@ use_fancybox: true
         <div class="w-full overflow-hidden">
             <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/4_IMG_960x386.png" alt="">
             <div class="relative right-0 float-right pb-6 text-sm leading-6 w-55prct font-base mt-7">
-                De plus en plus en vogue, le brunch est le moment idéal pour se retrouver entre amis ou en famille.
+                De plus en plus en vogue, le brunch est le moment idéal pour se retrouver entre amis ou en famille.<br>&nbsp;
                 <div class="flex space-x-8 text-base mt-18">
-                    <div class="py-1 bg-gray-800 px-7">
+                    <div class="hidden py-1 bg-gray-800 px-7">
                         <a href="{{ $page->baseUrl }}/assets/uploads/2019_CATALOGUE_42x21.pdf">
                             <div class="font-sans font-bold text-white">
                                 télécharger le
