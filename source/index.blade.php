@@ -69,7 +69,7 @@ sliders: [
                     <p class="mt-0 font-script text-anis">particuliers</p>
                 </div>
                 <div class="relative pt-2 pb-3 text-sm font-base px-14prct -mt-50px">
-                    <p class="pt-3 pb-4 text-center">Pour un mariage, un anniversaire, de 20 à 250 personnes, recevez vos invités en toute sérénité. Nous saurons nous adapter selon vos exigences et votre budget.</p>
+                    <p class="pt-3 pb-4 text-center">Pour un mariage (à partir de 50 personnes),<br> un anniversaire / baptême / ... (à partir de 20), recevez vos invités en toute sérénité. Nous saurons nous adapter selon vos exigences et votre budget.</p>
                     <a href="{{ $page->baseUrl }}/prestations-particuliers/">
                         <div class="absolute left-0 right-0 px-4 py-2 mx-auto font-sans text-white -bottom-5 bg-anis w-140">
                             en savoir <span class="font-bold text-gray-800 underline font-script">plus</span>
@@ -84,7 +84,7 @@ sliders: [
                     <p class="mt-0 font-script text-anis">professionnels</p>
                 </div>
                 <div class="relative pt-2 pb-3 text-sm font-base px-14prct -mt-50px">
-                    <p class="pt-3 pb-4 text-center">Pour un séminaire, une inauguration ou encore une soirée de gala, nous vous apportons des solutions « clef en main », petit déjeuner, cocktail, plateaux repas.</p>
+                    <p class="pt-3 pb-4 text-center">Pour un séminaire, une inauguration, une soirée de gala ou encore un goûter d'entreprise ou tout événement organisé par le C.E., nous vous apportons des solutions « clef en main » : petit déjeuner, pause, cocktail, plateaux repas ou repas.</p>
                     <a href="{{ $page->baseUrl }}/prestations-professionnels/">
                         <div class="absolute left-0 right-0 px-4 py-2 mx-auto font-sans text-white -bottom-5 bg-anis w-140">
                             en savoir <span class="font-bold text-gray-800 underline font-script">plus</span>
