@@ -18,7 +18,7 @@
                 </div>
                 <div>
                     <p class="my-8 text-lg font-bold text-white">Réseau sociaux</p>
-                    <p><a href="https://www.facebook.com/creareceptions/">Facebook</a></p>
+                    <p><a href="https://www.facebook.com/creareceptionstraiteur/">Facebook</a></p>
                     <p><a href="https://www.instagram.com/creareceptions/">Instagram</a></p>
                 </div>
             </div>
