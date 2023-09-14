@@ -109,7 +109,7 @@ use_fancybox: true
         </div>
         <div class="absolute bottom-24 green-bloc3 w-300 h-300 left-16 pt-45px">
             <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
-                <p class="m-0 font-sans">brunch</p>
+                <p class="m-0 font-sans"><br>brunch</p>
                 <p class="mt-0 font-script"></p>
                 <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -right-80px"></div>
             </div>
