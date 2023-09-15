@@ -7,7 +7,7 @@
     <div class="pt-9 hover:text-anis"><a href="{{ $page->baseUrl }}/references/">Références</a></div>
     <div class="pt-9 hover:text-anis"><a href="{{ $page->baseUrl }}/contact/">Contact</a></div>
     <div class="pt-9">
-      <a href="https://www.facebook.com/creareceptions/" target="_blank">
+      <a href="https://www.facebook.com/creareceptionstraiteur/" target="_blank">
         <img src="{{ $page->baseUrl }}/assets/img/facebook-picto.png">
       </a>
     </div>
