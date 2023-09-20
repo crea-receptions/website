@@ -69,7 +69,7 @@ title_img: /assets/img/main-professionnelles.png
         <div class="w-full overflow-hidden">
             <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/6_IMG_960x386.png" alt="">
             <div class="relative right-0 float-right pb-6 text-sm leading-6 w-55prct font-base mt-7">
-                Une solution rapide et équilibrée. Pour vos déjeuners d’affaire ou vos réunions entre collaborateurs, nous proposons 5 sortes de plateaux dont un végétarien.
+                Une solution rapide et équilibrée. Pour vos déjeuners d’affaire ou vos réunions entre collaborateurs, nous proposons des plateaux repas variés dont deux végétariens ou un sans gluten.
                 <div class="flex space-x-8 text-base mt-18">
                     <div class="py-1 bg-gray-800 px-7">
                         <a href="{{ $page->baseUrl }}/contact/">
