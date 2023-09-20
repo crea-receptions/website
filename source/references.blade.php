@@ -17,54 +17,80 @@ use_fancybox: true
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-3.jpg">
             </a>
         </div>
-        <div class="relative overflow-hidden h-300 w-300">
-            <img class="h-32 w-300" src="{{ $page->baseUrl }}/assets/uploads/LOGO-REFERENCE-300x126.png" alt="__LOGO REFERENCE">
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo Pôle Emploi 2008.svg" alt="Pôle Emploi">
         </div>
-        <div class="relative overflow-hidden h-300 w-300"></div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Pro-2.jpg" title="Buffet petit déjeuner">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-2.jpg">
             </a>
+        </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo FDJ.svg" alt="FDJ">
         </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-2.jpg" title="Cocktail sur l'Inga des Riaux">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-2.jpg">
             </a>
         </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo La Varappe.png" alt="La Varappe">
+        </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-1.jpg" title="Cocktail sur l'Inga des Riaux - Table">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-1.jpg">
             </a>
+        </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 px-4 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo Arkema.svg" alt="Arkema">
         </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Pro-1.jpg" title="Cocktail séminaire">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-1.jpg">
             </a>
         </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 px-4 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo Groupe 3F.jpg" alt="3F">
+        </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/cocktail-1.jpg" title="Cocktail salé - 1">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/cocktail-1.jpg">
             </a>
+        </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 px-4 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo Credit Mutuel.svg" alt="Credit Mutuel">
         </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/cocktail-3.jpg" title="Cocktail salé - 2">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/cocktail-3.jpg">
             </a>
         </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo Faconeo.png" alt="Faconeo">
+        </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/cocktail-4.jpg" title="Cocktail salé - 3">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/cocktail-4.jpg">
             </a>
+        </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo Gan 2010.svg" alt="Gan">
         </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/cocktail-6.jpg" title="Cocktail sucré - 1">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/cocktail-6.jpg">
             </a>
         </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 py-4 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo Intersud.png" alt="Intersud">
+        </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/cocktail-2.jpg" title="Cocktail sucré - 2">
                 <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/cocktail-2.jpg">
             </a>
+        </div>
+        <div class="relative flex items-center justify-center overflow-hidden h-300 w-300">
+            <img class="h-32 px-4 w-300" src="{{ $page->baseUrl }}/assets/img/references/Logo EDF.svg" alt="EDF">
         </div>
         <div class="relative overflow-hidden h-300 w-300">
             <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-2.jpg" title="Mariage années 50 - 1">
