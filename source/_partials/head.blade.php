@@ -39,4 +39,6 @@
     <link rel="stylesheet" href="{{ $page->baseUrl }}/assets/css/responsive-nav.css" type="text/css" media="screen" />
     <script src="{{ $page->baseUrl }}/assets/js/responsive-nav.js"></script>
 @endif
+
+    <script src="//unpkg.com/alpinejs" defer></script>
 </head>

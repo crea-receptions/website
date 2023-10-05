@@ -48,13 +48,17 @@ module.exports = {
                 "1166": "1166px"
             },
             maxHeight: {
+                "100": "100px",
+                "352": "352px",
                 "463": "463px"
             },
             minHeight: {
+                "100": "100px",
                 "349": "349px"
             },
             padding: {
                 "14prct": "14%",
+                "18": "4.5rem",
                 "45px": "45px",
                 "55px": "55px"
             },
