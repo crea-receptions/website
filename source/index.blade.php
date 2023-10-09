@@ -32,14 +32,14 @@ sliders: [
 @foreach ($page->sliders as $slider)
         <div class="absolute min-w-full carousel-cell h-683">
             <div class="absolute left-0 right-0 z-10 mx-auto my-0 text-center text-white w-544 title h-514 top-80px">
-                <h1 class="font-sans text-7xl pt-100" style="margin: revert;">
+                <h1 class="pt-16 font-sans text-2xl sm:text-3xl md:text-5xl lg:text-7xl sm:pt-20 md:pt-24 lg:pt-28" style="margin: revert;">
                     {{ $slider->title1 }}
-                    <span class="block font-script text-9xl leading-inherit text-anis">{{ $slider->title2 }}</span>
+                    <span class="block text-4xl font-script sm:text-5xl md:text-7xl lg:text-9xl leading-inherit text-anis">{{ $slider->title2 }}</span>
                 </h1>
             </div>
             <div class="h-698">
                 <div class="absolute w-full h-698"></div>
-                <img class="min-w-full left-1/2" src="{{ $page->baseUrl}}{{ $slider->title_img }}"/>
+                <img class="lg:min-w-full left-1/2" src="{{ $page->baseUrl}}{{ $slider->title_img }}"/>
             </div>
         </div>
 @endforeach
