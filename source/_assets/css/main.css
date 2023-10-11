@@ -13,7 +13,8 @@
     }
 
     .title {
-        background-image: url('../../../assets/img/contour.png')
+        background-image: url('../../../assets/img/contour.png');
+        background-size: cover;
     }
 
     .grey-title {

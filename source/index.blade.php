@@ -27,25 +27,25 @@ sliders: [
         $('.carousel').flickity({autoPlay: true,});
     });
 </script>
-<div id="slider" class="relative w-full overflow-hidden h-698">
+<div id="slider" class="relative w-full overflow-hidden h-244 sm:h-324 md:h-389 lg:h-520 xl:h-698">
     <div class="carousel flickity-enabled is-draggable">
 @foreach ($page->sliders as $slider)
-        <div class="absolute min-w-full carousel-cell h-683">
-            <div class="absolute left-0 right-0 z-10 mx-auto my-0 text-center text-white w-544 title h-514 top-80px">
-                <h1 class="pt-16 font-sans text-2xl sm:text-3xl md:text-5xl lg:text-7xl sm:pt-20 md:pt-24 lg:pt-28" style="margin: revert;">
+        <div class="absolute min-w-full carousel-cell h-244 sm:h-324 md:h-389 lg:h-520 xl:h-698">
+            <div class="absolute left-0 right-0 z-10 mx-auto my-0 text-center text-white title top-15px h-214 w-226 sm:top-30px sm:w-280 sm:h-264 md:top-45px md:w-328 md:h-310 lg:w-424 lg:h-400 lg:top-65px xl:w-544 xl:h-514 xl:top-80px">
+                <h1 class="pt-16 font-sans text-2xl sm:text-3xl md:text-5xl lg:text-7xl sm:pt-18 md:pt-20 lg:pt-24 xl:pt-28" style="margin: revert;">
                     {{ $slider->title1 }}
                     <span class="block text-4xl font-script sm:text-5xl md:text-7xl lg:text-9xl leading-inherit text-anis">{{ $slider->title2 }}</span>
                 </h1>
             </div>
-            <div class="h-698">
-                <div class="absolute w-full h-698"></div>
-                <img class="lg:min-w-full left-1/2" src="{{ $page->baseUrl}}{{ $slider->title_img }}"/>
+            <div class="flex justify-center h-244 sm:h-324 md:h-389 lg:h-520 xl:h-698">
+                <div class="absolute w-full h-244 sm:h-324 md:h-389 lg:h-520 xl:h-698"></div>
+                <img class="h-fit left-1/2" src="{{ $page->baseUrl}}{{ $slider->title_img }}"/>
             </div>
         </div>
 @endforeach
     </div>
 </div>
-<div id="container" class="relative mx-auto max-w-1166">
+<div id="container" class="relative mx-auto max-w-1166 top-15px">
     <div class="absolute z-20 w-full top-4 grey-background h-633"></div>
     <div class="absolute top-auto z-20 w-1/2 right-2 grey-background -bottom-16 h-349"></div>
     <div class="relative mx-auto max-w-929">
