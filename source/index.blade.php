@@ -51,9 +51,9 @@ sliders: [
     <div class="relative mx-auto max-w-929">
         <div class="relative z-50 mt-80px">
             <div class="w-full overflow-hidden">
-                <img class="max-w-none" src="{{ $page->baseUrl }}\assets\img\content\FB_IMG_15166378787131.jpg" alt="">
+                <img class="relative max-w-none -left-32 sm:-left-16 md:left-0" src="{{ $page->baseUrl }}\assets\img\content\FB_IMG_15166378787131.jpg" alt="">
             </div>
-            <div class="absolute pt-4 pb-12 pr-10 -top-60px -left-30px w-300 h-480 green-bloc1 pl-9">
+            <div class="absolute pt-4 pb-12 pr-10 -top-60px left-16 sm:left-8 lg:-left-15px xl:-left-30px w-300 h-480 green-bloc1 pl-9">
                 <div class="relative mx-auto text-3xl text-center text-white pt-14 w-213 h-201 green-title">
                     <p class="m-0 font-sans">qui sommes</p>
                     <p class="mt-0 font-script">nous ?</p>
@@ -62,8 +62,8 @@ sliders: [
                 <p class="-mt-5 text-sm text-center text-gray-900">Créa-Réceptions, traiteur en Bouches du Rhône basé à Roquevaire, organisateur de réceptions depuis 2008, vous propose une cuisine de goût et de qualité qui valorise les produits régionaux. C’est aussi une équipe de professionnels et de partenaires de choix à l’écoute de sa clientèle afin de garantir un évènement à la hauteur de ses attentes.</p>
             </div>
         </div>
-        <div class="flex mt-8">
-            <div class="relative z-50 w-1/2 mx-auto my-5 mr-4 text-center text-gray-800">
+        <div class="flex flex-col justify-center mt-8 md:flex-row">
+            <div class="relative z-50 px-8 mx-auto my-5 mr-4 text-center text-gray-800 md:px-0 md:w-1/2">
                 <div class="mx-auto text-3xl grey-title w-213 h-201 pt-55px">
                     <p class="font-sans">évènements</p>
                     <p class="mt-0 font-script text-anis">particuliers</p>
@@ -78,7 +78,7 @@ sliders: [
                 </div>
                 <img src="{{ $page->baseUrl }}/assets/img/content/2_IMG_456x280.png" alt="">
             </div>
-            <div class="relative z-50 w-1/2 mx-auto my-5 mr-4 text-center text-gray-800">
+            <div class="relative z-50 px-8 mx-auto my-5 mr-4 text-center text-gray-800 md:px-0 md:w-1/2">
                 <div class="mx-auto text-3xl grey-title w-213 h-201 pt-55px">
                     <p class="font-sans">évènements</p>
                     <p class="mt-0 font-script text-anis">professionnels</p>
