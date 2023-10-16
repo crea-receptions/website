@@ -76,7 +76,7 @@ sliders: [
                         </div>
                     </a>
                 </div>
-                <img src="{{ $page->baseUrl }}/assets/img/content/2_IMG_456x280.png" alt="">
+                <img class="mx-auto" src="{{ $page->baseUrl }}/assets/img/content/2_IMG_456x280.png" alt="">
             </div>
             <div class="relative z-50 px-8 mx-auto my-5 mr-4 text-center text-gray-800 md:px-0 md:w-1/2">
                 <div class="mx-auto text-3xl grey-title w-213 h-201 pt-55px">
@@ -91,7 +91,7 @@ sliders: [
                         </div>
                     </a>
                 </div>
-                <img src="{{ $page->baseUrl }}/assets/img/content/1_IMG_456x280.png" alt="">
+                <img class="mx-auto" src="{{ $page->baseUrl }}/assets/img/content/1_IMG_456x280.png" alt="">
             </div>
         </div>
     </div>
