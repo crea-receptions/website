@@ -36,6 +36,8 @@ module.exports = {
                 "65px": "65px",
                 "80px": "80px",
                 "95px": "95px",
+                "245px": "245px",
+                "290px": "290px",
                 "-15px": "-15px",
                 "-30px": "-30px",
                 "-40px": "-40px",
@@ -44,7 +46,8 @@ module.exports = {
                 "-80px": "-80px",
                 "-100px": "-100px",
                 "-120px": "-120px",
-                "-144px": "-144px"
+                "-144px": "-144px",
+                "-465px": "-465px"
             },
             lineHeight: {
                 inherit: "inherit"

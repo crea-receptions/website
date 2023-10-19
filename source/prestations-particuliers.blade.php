@@ -35,23 +35,25 @@ use_fancybox: true
                 </div>
             </div>
         </div>
-        <div class="absolute bottom-24 green-bloc3 w-300 h-300 left-16 pt-45px">
+        <div class="absolute top-290px sm:top-245px green-bloc3 w-213 sm:w-300 h-201 sm:h-300 left-8 md:left-16 sm:pt-45px">
             <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
                 <p class="m-0 font-sans">mariage</p>
                 <p class="mt-0 font-script">baptême, anniversaire...</p>
-                <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -right-80px"></div>
+                <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -right-40px sm:-right-80px"></div>
             </div>
         </div>
     </div>
 </div>
 <div class="relative mx-auto mb-20 max-w-929">
-    <div class="z-20 w-4/5 pb-10 grey-background top-24 h-480 -left-24"></div>
+    <div class="z-20 w-4/5 pb-10 grey-background top-48 sm:top-24 h-480 -left-12 sm:-left-24"></div>
     <div class="relative z-50 mt-80px">
         <div class="w-full overflow-hidden">
-            <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/5_IMG_960x386.png" alt="">
-            <div class="relative right-0 float-left pb-6 text-sm leading-6 w-55prct font-base mt-7">
+            <div class="flex justify-center">
+                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/5_IMG_960x386.png" alt="">
+            </div>
+            <div class="relative right-0 z-10 float-left pb-6 pl-4 mt-12 text-sm leading-6 w-55prct font-base">
                 Envie de vous faire plaisir tout en restant chez vous, comme au restaurant passez votre commande à notre chef, entièrement sur mesure, il jouera de sa créativité pour ravir vos papilles et celles de vos convives.
-                <div class="flex space-x-8 text-base mt-18">
+                <div class="flex text-base sm:space-x-8 mt-18">
                     <div class="hidden py-1 bg-gray-800 px-7">
                         <a href="{{ $page->baseUrl }}/assets/uploads/2019_CATALOGUE_42x21.pdf">
                             <div class="font-sans font-bold text-white">
@@ -71,23 +73,25 @@ use_fancybox: true
                 </div>
             </div>
         </div>
-        <div class="absolute bottom-24 green-bloc3 w-300 h-300 right-16 pt-45px">
+        <div class="absolute top-290px sm:top-245px green-bloc3 w-213 sm:w-300 h-201 sm:h-300 right-8 md:right-16 sm:pt-45px">
             <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
                 <p class="m-0 font-sans">chef</p>
                 <p class="mt-0 font-script">à domicile</p>
-                <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -left-80px"></div>
+                <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -left-40px sm:-left-80px"></div>
             </div>
         </div>
     </div>
 </div>
 <div class="relative mx-auto mb-20 max-w-929">
-    <div class="z-20 w-4/5 pb-10 grey-background top-24 h-480 -right-24"></div>
+    <div class="z-20 w-4/5 pb-10 grey-background top-32 sm:top-24 h-480 -right-12 sm:-right-24"></div>
     <div class="relative z-50 mt-80px">
         <div class="w-full overflow-hidden">
-            <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/4_IMG_960x386.png" alt="">
-            <div class="relative right-0 float-right pb-6 text-sm leading-6 w-55prct font-base mt-7">
+            <div class="flex justify-center">
+                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/4_IMG_960x386.png" alt="">
+            </div>
+            <div class="relative right-0 z-10 float-right pb-6 pr-4 mt-12 text-sm leading-6 w-55prct font-base">
                 De plus en plus en vogue, le brunch est le moment idéal pour se retrouver entre amis ou en famille.<br>&nbsp;
-                <div class="flex space-x-8 text-base mt-18">
+                <div class="flex text-base sm:space-x-8 mt-18">
                     <div class="hidden py-1 bg-gray-800 px-7">
                         <a href="{{ $page->baseUrl }}/assets/uploads/2019_CATALOGUE_42x21.pdf">
                             <div class="font-sans font-bold text-white">
@@ -107,11 +111,11 @@ use_fancybox: true
                 </div>
             </div>
         </div>
-        <div class="absolute bottom-24 green-bloc3 w-300 h-300 left-16 pt-45px">
+        <div class="absolute top-290px sm:top-245px green-bloc3 w-213 sm:w-300 h-201 sm:h-300 left-8 md:left-16 sm:pt-45px">
             <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
                 <p class="m-0 font-sans"><br>brunch</p>
                 <p class="mt-0 font-script"></p>
-                <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -right-80px"></div>
+                <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -right-40px sm:-right-80px"></div>
             </div>
         </div>
     </div>
