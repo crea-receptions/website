@@ -97,7 +97,10 @@ title_img: /assets/img/main-contact.png
                 </div>
             </form>
         </div>
-        <div class="relative w-4/5 mt-24 mb-7">
+        <div class="text-sm text-gray-600 relative w-4/5 sm:w-3/5 mt-12">
+            En cas de problème avec le formulaire, vous pouvez nous envoyer toutes ces informations directement par mail à l'adresse : <a href="mailto:crea-receptions@live.fr" class="text-gray-900">crea-receptions@live.fr</a>
+        </div>
+        <div class="relative w-4/5 mt-12 mb-7">
             <div class="absolute py-2 sm:py-12 px-2 sm:px-10 -bottom-100px sm:-bottom-144px -left-30px sm:-left-40px md:-left-60px lg:-left-80px xl:-left-120px w-213 sm:w-300 green-bloc3">
                 <div class="relative mx-auto text-3xl text-center text-white pt-14 w-213 h-201 green-title">
                     <p class="m-0 font-sans">notre</p>
