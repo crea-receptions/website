@@ -98,7 +98,7 @@ title_img: /assets/img/main-contact.png
             </form>
         </div>
         <div class="text-sm text-gray-600 relative w-4/5 sm:w-3/5 mt-12">
-            En cas de problème avec le formulaire, vous pouvez nous envoyer toutes ces informations directement par mail à l'adresse : <a href="mailto:crea-receptions@live.fr" class="text-gray-900">crea-receptions@live.fr</a>
+            En cas de problème avec le formulaire (ou si vous n'avez pas eu de retour sous 2 jours ouvrés), vous pouvez nous envoyer toutes ces informations directement par mail à l'adresse : <a href="mailto:crea-receptions@live.fr" class="text-gray-900">crea-receptions@live.fr</a> , ou par SMS au : <span class="text-gray-900">06 62 40 18 68</span>.
         </div>
         <div class="relative w-4/5 mt-12 mb-7">
             <div class="absolute py-2 sm:py-12 px-2 sm:px-10 -bottom-100px sm:-bottom-144px -left-30px sm:-left-40px md:-left-60px lg:-left-80px xl:-left-120px w-213 sm:w-300 green-bloc3">
