@@ -24,6 +24,7 @@ title_img: /assets/img/main-contact.png
                 </div>
                 <div class="flex flex-wrap text-xs">
                     <input type="hidden" name="_subject" value="[CREARECEPTION] Demande de devis">
+                    <input type="hidden" name="_cc" value="crea.receptions13@gmail.com">
                     <input type="hidden" name="_next" value="{{ $page->baseUrl}}/thanks/">
                     <div class="w-full sm:w-1/2 px-1 sm:px-2 md:px-3 lg:px-4 mt-7 py-2.5 space-x-3 sm:space-x-3 md:space-x-4 lg:space-x-8 xl:space-x-11">
                         <span><input type="radio" value="Mme" name="civilite" class="ml-1 sm:ml-1 md:ml-2 lg:ml-3 xl:ml-4"/> <span class="ml-1">Mme</span></span>
