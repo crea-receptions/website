@@ -1,22 +1,23 @@
 {
   "private": true,
   "scripts": {
-    "local": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "staging": "cross-env NODE_ENV=staging node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "local": "cross-env NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "staging": "cross-env NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=staging node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "production": "cross-env NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "dev": "yarn run local",
     "prod": "yarn run production",
     "watch": "yarn run local --watch"
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "npm:@tailwindcss/postcss7-compat",
-    "autoprefixer": "^9",
-    "cross-env": "^3.2.3",
+    "autoprefixer": "^9.8.8",
+    "cross-env": "^3.2.4",
     "laravel-mix": "^5.0.9",
-    "laravel-mix-jigsaw": "^1.1.0",
-    "postcss": "^7",
-    "postcss-import": "^12.0.0",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
-    "vue-template-compiler": "^2.6.12"
-  }
+    "laravel-mix-jigsaw": "^1.5.0",
+    "postcss": "^7.0.39",
+    "postcss-import": "^12.0.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "vue-template-compiler": "^2.7.16"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
