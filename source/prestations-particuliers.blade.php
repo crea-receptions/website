@@ -42,7 +42,7 @@ use_fancybox: true
             <div class="py-1 bg-gray-800 px-7">
                 <a href="{{ $page->baseUrl }}/contact/">
                     <div class="font-sans font-bold text-white">
-                        réaliser un
+                        demander un
                         <span class="underline font-script text-anis">devis</span>
                     </div>
                 </a>
@@ -71,7 +71,7 @@ use_fancybox: true
                     <div class="py-1 bg-gray-800 px-7">
                         <a href="{{ $page->baseUrl }}/contact/">
                             <div class="font-sans font-bold text-white">
-                                réaliser un
+                                demander un
                                 <span class="underline font-script text-anis">devis</span>
                             </div>
                         </a>
@@ -109,7 +109,7 @@ use_fancybox: true
                     <div class="py-1 bg-gray-800 px-7">
                         <a href="{{ $page->baseUrl }}/contact/">
                             <div class="font-sans font-bold text-white">
-                                réaliser un
+                                demander un
                                 <span class="underline font-script text-anis">devis</span>
                             </div>
                         </a>

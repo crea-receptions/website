@@ -12,5 +12,9 @@ mix.jigsaw()
     ])
     .options({
         processCssUrls: false,
+        devServer: {
+          writeToDisk: true,
+        },
     })
+    .sourceMaps()
     .version();
