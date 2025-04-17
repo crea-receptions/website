@@ -22,6 +22,8 @@ sliders: [
 @extends('_layouts.master')
 
 @section('content')
+    @include('_partials.header')
+    
 <script>
     $(document).ready(function() {
         $('.carousel').flickity({autoPlay: true,});
