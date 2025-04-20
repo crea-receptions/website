@@ -1,12 +1,13 @@
 {
   "private": true,
   "scripts": {
+    "build": "./vendor/bin/jigsaw build",
     "local": "cross-env NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "staging": "cross-env NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=staging node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "production": "cross-env NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "dev": "yarn run local",
-    "prod": "yarn run production",
-    "watch": "yarn run local --watch"
+    "watch": "yarn run local --watch",
+    "build_prod": "./vendor/bin/jigsaw build production",
+    "production": "cross-env NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "prod": "yarn run production"
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "npm:@tailwindcss/postcss7-compat",
