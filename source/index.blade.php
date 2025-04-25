@@ -5,17 +5,17 @@ sliders: [
     {
         title1: le choix,
         title2: du goût,
-        title_img: /assets/img/content/1_COVER_1380x700.png
+        title_img: /assets/img/content/1_COVER_1380x700.webp
     },
     {
         title1: prestations,
         title2: sur mesure,
-        title_img: /assets/img/content/main-home.png
+        title_img: /assets/img/content/main-home.webp
     },
     {
         title1: le plaisir,
         title2: des yeux,
-        title_img: /assets/img/content/2_COVER_1380x700.png
+        title_img: /assets/img/content/2_COVER_1380x700.webp
     }
 ]
 ---
@@ -53,7 +53,7 @@ sliders: [
     <div class="relative mx-auto max-w-929">
         <div class="relative z-50 mt-80px">
             <div class="w-full overflow-hidden">
-                <img class="relative max-w-none -left-32 sm:-left-16 md:left-0" src="{{ $page->baseUrl }}\assets\img\content\FB_IMG_15166378787131.jpg" alt="">
+                <img class="relative max-w-none -left-32 sm:-left-16 md:left-0" src="{{ $page->baseUrl }}\assets\img\content\FB_IMG_15166378787131.webp" alt="">
             </div>
             <div class="absolute pt-4 pb-12 pr-10 -top-60px left-16 sm:left-8 lg:-left-15px xl:-left-30px w-300 h-480 green-bloc1 pl-9">
                 <div class="relative mx-auto text-3xl text-center text-white pt-14 w-213 h-201 green-title">
@@ -78,7 +78,7 @@ sliders: [
                         </div>
                     </a>
                 </div>
-                <img class="mx-auto" src="{{ $page->baseUrl }}/assets/img/content/2_IMG_456x280.png" alt="">
+                <img class="mx-auto" src="{{ $page->baseUrl }}/assets/img/content/2_IMG_456x280.webp" alt="">
             </div>
             <div class="relative z-50 px-8 mx-auto my-5 mr-4 text-center text-gray-800 md:px-0 md:w-1/2">
                 <div class="mx-auto text-3xl grey-title w-213 h-201 pt-55px">
@@ -93,7 +93,7 @@ sliders: [
                         </div>
                     </a>
                 </div>
-                <img class="mx-auto" src="{{ $page->baseUrl }}/assets/img/content/1_IMG_456x280.png" alt="">
+                <img class="mx-auto" src="{{ $page->baseUrl }}/assets/img/content/1_IMG_456x280.webp" alt="">
             </div>
         </div>
     </div>

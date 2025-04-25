@@ -2,7 +2,7 @@
 title: Prestations professionnels - Créa Réceptions – Traiteur événementiel
 title1: prestations
 title2: professionnels
-title_img: /assets/img/main-professionnelles.png
+title_img: /assets/img/main/main-professionnels.webp
 ---
 @extends('_layouts.page')
 
@@ -11,7 +11,7 @@ title_img: /assets/img/main-professionnelles.png
         <div class="z-20 w-4/5 pb-10 grey-background top-24 h-480 -right-24"></div>
         <div class="relative z-50 mt-80px">
             <div class="w-full overflow-hidden">
-                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/3_IMG_960x386.png" alt="">
+                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/3_IMG_960x386.webp" alt="">
                 <div class="relative right-0 float-right pb-6 text-sm leading-6 w-55prct font-base mt-7">
                     Inauguration, séminaire, pot de départ, pour vos clients ou vos collaborateurs, nous sommes là pour répondre à vos attentes, tant dans l’élaboration des menus que dans l’organisation de votre réception.
                     <div class="flex space-x-8 text-base mt-18">
@@ -26,7 +26,7 @@ title_img: /assets/img/main-professionnelles.png
                     </div>
                 </div>
             </div>
-            <div class="absolute bottom-24 green-bloc3 w-300 h-300 left-16 pt-45px">
+            <div class="absolute bottom-18 green-bloc3 w-300 h-300 left-16 pt-45px">
                 <a href="{{ $page->baseUrl }}/exemples-pro-cocktails-menus/">
                     <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
                         <p class="m-0 font-sans">cocktails</p>
@@ -41,7 +41,7 @@ title_img: /assets/img/main-professionnelles.png
         <div class="z-20 w-4/5 pb-10 grey-background top-24 h-480 -left-24"></div>
         <div class="relative z-50 mt-80px">
             <div class="w-full overflow-hidden">
-                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/2_IMG_960x386.png" alt="">
+                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/2_IMG_960x386.webp" alt="">
                 <div class="relative right-0 float-left pb-6 text-sm leading-6 w-55prct font-base mt-7">
                     Viennoiseries pur beurre, jus de fruits, sucre, café Nespresso et thé. Pour démarrer au mieux votre journée de travail, nous vous proposons différentes formules : petit déjeuner, pause-café ou pause-sucrée...
                     <div class="flex space-x-8 text-base mt-18">
@@ -56,7 +56,7 @@ title_img: /assets/img/main-professionnelles.png
                     </div>
                 </div>
             </div>
-            <div class="absolute bottom-24 green-bloc3 w-300 h-300 right-16 pt-45px"> <!--</div> pt-4 pb-12 pr-10 -top-60px -left-30px w-300 h-480 green-bloc pl-9">-->
+            <div class="absolute bottom-18 green-bloc3 w-300 h-300 right-16 pt-45px"> <!--</div> pt-4 pb-12 pr-10 -top-60px -left-30px w-300 h-480 green-bloc pl-9">-->
                 <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
                     <p class="m-0 font-sans">petits déjeuners</p>
                     <p class="mt-0 font-script">pauses sucrées</p>
@@ -69,7 +69,7 @@ title_img: /assets/img/main-professionnelles.png
         <div class="z-20 w-4/5 pb-10 grey-background top-24 h-480 -right-24"></div>
         <div class="relative z-50 mt-80px">
             <div class="w-full overflow-hidden">
-                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/6_IMG_960x386.png" alt="">
+                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/6_IMG_960x386.webp" alt="">
                 <div class="relative right-0 float-right pb-6 text-sm leading-6 w-55prct font-base mt-7">
                     Une solution rapide et équilibrée. Pour vos déjeuners d’affaire ou vos réunions entre collaborateurs, nous proposons des plateaux repas variés dont deux végétariens ou un sans gluten.
                     <div class="flex space-x-8 text-base mt-18">
@@ -84,7 +84,7 @@ title_img: /assets/img/main-professionnelles.png
                     </div>
                 </div>
             </div>
-            <div class="absolute bottom-24 green-bloc3 w-300 h-300 left-16 pt-45px"> <!--</div> pt-4 pb-12 pr-10 -top-60px -left-30px w-300 h-480 green-bloc pl-9">-->
+            <div class="absolute bottom-18 green-bloc3 w-300 h-300 left-16 pt-45px"> <!--</div> pt-4 pb-12 pr-10 -top-60px -left-30px w-300 h-480 green-bloc pl-9">-->
                 <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
                     <p class="m-0 font-sans">plateaux</p>
                     <p class="mt-0 font-script">repas</p>
@@ -105,33 +105,33 @@ title_img: /assets/img/main-professionnelles.png
                 </div>
             </div>
             <div class="relative overflow-hidden h-300 w-300">
-                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Pro-3.jpg" title="Buffet événement professionnel">
-                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-3.jpg">
+                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Pro-3.webp" title="Buffet événement professionnel">
+                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-3.webp">
                 </a>
             </div>
             <div class="relative overflow-hidden h-300 w-300">
-                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Pro-2.jpg" title="Buffet petit déjeuner">
-                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-2.jpg">
+                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Pro-2.webp" title="Buffet petit déjeuner">
+                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-2.webp">
                 </a>
             </div>
             <div class="relative overflow-hidden h-300 w-300">
-                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-2.jpg" title="Cocktail sur l'Inga des Riaux">
-                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-2.jpg">
+                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-2.webp" title="Cocktail sur l'Inga des Riaux">
+                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-2.webp">
                 </a>
             </div>
             <div class="relative overflow-hidden h-300 w-300">
-                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-1.jpg" title="Cocktail sur l'Inga des Riaux - Table">
-                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-1.jpg">
+                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-1.webp" title="Cocktail sur l'Inga des Riaux - Table">
+                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Inga-riaux-1.webp">
                 </a>
             </div>
             <div class="relative overflow-hidden h-300 w-300">
-                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Pro-1.jpg" title="Cocktail séminaire">
-                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-1.jpg">
+                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/Pro-1.webp" title="Cocktail séminaire">
+                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/Pro-1.webp">
                 </a>
             </div>
             <div class="relative overflow-hidden h-300 w-300">
-                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/cocktail-1.jpg" title="Cocktail salé - 1">
-                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/cocktail-1.jpg">
+                <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/cocktail-1.webp" title="Cocktail salé - 1">
+                    <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/cocktail-1.webp">
                 </a>
             </div>
             <div class="w-900">

@@ -30,6 +30,7 @@ module.exports = {
                 "698": "698px"
             },
             inset: {
+                "18": "4.5rem",
                 "15px": "15px",
                 "30px": "30px",
                 "45px": "45px",

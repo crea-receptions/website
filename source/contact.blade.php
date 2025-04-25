@@ -2,7 +2,7 @@
 title: Contact - Créa Réceptions – Traiteur événementiel
 title1: nous
 title2: contacter
-title_img: /assets/img/main-contact.png
+title_img: /assets/img/main/main-contact.webp
 ---
 @extends('_layouts.page')
 

@@ -13,32 +13,32 @@
     }
 
     .title {
-        background-image: url('../../../assets/img/contour.png');
+        background-image: url('../../../assets/img/main/contour.webp');
         background-size: cover;
     }
 
     .grey-title {
-        background-image: url('../../../assets/img/contour-grey.png')
+        background-image: url('../../../assets/img/main/contour-grey.webp')
     }
 
     .green-title {
-        background-image: url('../../../assets/img/contour-green.png')
+        background-image: url('../../../assets/img/main/contour-green.webp')
     }
 
     .green-bloc1 {
-        background-image: url('../../../assets/img/bg-model-1.png')
+        background-image: url('../../../assets/img/main/bg-model-1.webp')
     }
 
     .green-bloc3 {
-        background-image: url('../../../assets/img/bg-model-3.png')
+        background-image: url('../../../assets/img/main/bg-model-3.webp')
     }
 
     .green-bloc5 {
-        background-image: url('../../../assets/img/bg-model-5.png')
+        background-image: url('../../../assets/img/main/bg-model-5.webp')
     }
 
     .grey-bloc {
-        background-image: url('../../../assets/img/bg-model-6.png')
+        background-image: url('../../../assets/img/main/bg-model-6.webp')
     }
 
     .grey-background {

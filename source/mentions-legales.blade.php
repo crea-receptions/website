@@ -2,7 +2,7 @@
 title: Mentions légales - Créa Réceptions – Traiteur événementiel
 title1: mentions
 title2: légales
-title_img: /assets/img/main-mentions.png
+title_img: /assets/img/main/main-mentions.webp
 ---
 @extends('_layouts.page')
 

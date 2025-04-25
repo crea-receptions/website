@@ -2,7 +2,7 @@
 title: Prestations particuliers - Créa Réceptions – Traiteur événementiel
 title1: prestations
 title2: particuliers
-title_img: /assets/img/main-particuliers.png
+title_img: /assets/img/main/main-particuliers.webp
 use_fancybox: true
 ---
 @extends('_layouts.page')
@@ -13,7 +13,7 @@ use_fancybox: true
     <div class="relative z-50 mt-80px">
         <div class="w-full overflow-hidden">
             <div class="flex justify-center">
-                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/1_IMG_960x386.png" alt="">
+                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/1_IMG_960x386.webp" alt="">
             </div>
             <div class="relative right-0 z-10 float-right pb-6 pr-4 text-sm leading-6 mt-14 w-55prct font-base">
                 Un évènement unique qui ne ressemble qu’à vous, notre équipe vous accompagnera à chaque étape de votre
@@ -55,7 +55,7 @@ use_fancybox: true
     <div class="relative z-50 mt-80px">
         <div class="w-full overflow-hidden">
             <div class="flex justify-center">
-                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/5_IMG_960x386.png" alt="">
+                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/5_IMG_960x386.webp" alt="">
             </div>
             <div class="relative right-0 z-10 float-left pb-6 pl-4 mt-12 text-sm leading-6 w-55prct font-base">
                 Envie de vous faire plaisir tout en restant chez vous, comme au restaurant passez votre commande à notre chef, entièrement sur mesure, il jouera de sa créativité pour ravir vos papilles et celles de vos convives.
@@ -93,7 +93,7 @@ use_fancybox: true
     <div class="relative z-50 mt-80px">
         <div class="w-full overflow-hidden">
             <div class="flex justify-center">
-                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/4_IMG_960x386.png" alt="">
+                <img class="max-w-none" src="{{ $page->baseUrl }}/assets/img/content/4_IMG_960x386.webp" alt="">
             </div>
             <div class="relative right-0 z-10 float-right pb-6 pr-4 mt-12 text-sm leading-6 w-55prct font-base">
                 De plus en plus en vogue, le brunch est le moment idéal pour se retrouver entre amis ou en famille.<br>&nbsp;
@@ -138,33 +138,33 @@ use_fancybox: true
             </div>
         </div>
         <div class="relative overflow-hidden h-300 w-300">
-            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-2.jpg" title="Mariage années 50 - 1">
-                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-2.jpg">
+            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-2.webp" title="Mariage années 50 - 1">
+                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-2.webp">
             </a>
         </div>
         <div class="relative overflow-hidden h-300 w-300">
-            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-1.jpg" title="Mariage années 50 - 2">
-                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-1.jpg">
+            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-1.webp" title="Mariage années 50 - 2">
+                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-1.webp">
             </a>
         </div>
         <div class="relative overflow-hidden h-300 w-300">
-            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-4.jpg" title="Mariage années 50 - 3">
-                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-4.jpg">
+            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-4.webp" title="Mariage années 50 - 3">
+                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-4.webp">
             </a>
         </div>
         <div class="relative overflow-hidden h-300 w-300">
-            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-3.jpg" title="Mariage années 50 - 4">
-                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-3.jpg">
+            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-3.webp" title="Mariage années 50 - 4">
+                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-3.webp">
             </a>
         </div>
         <div class="relative overflow-hidden h-300 w-300">
-            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-5.jpg" title="Mariage années 50 - 5">
-                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-5.jpg">
+            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/mariage-50-5.webp" title="Mariage années 50 - 5">
+                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/mariage-50-5.webp">
             </a>
         </div>
         <div class="relative overflow-hidden h-300 w-300">
-            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/buffet-3.jpg" title="Buffet - 1">
-                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/buffet-3.jpg">
+            <a class="fancybox" rel="group" href="{{ $page->baseUrl }}/assets/img/content/buffet-3.webp" title="Buffet - 1">
+                <img class="ref_img" src="{{ $page->baseUrl }}/assets/img/content/buffet-3.webp">
             </a>
         </div>
         <div class="w-900">
