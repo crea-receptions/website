@@ -57,11 +57,13 @@ title_img: /assets/img/main/main-professionnels.webp
                 </div>
             </div>
             <div class="absolute bottom-18 green-bloc3 w-300 h-300 right-16 pt-45px"> <!--</div> pt-4 pb-12 pr-10 -top-60px -left-30px w-300 h-480 green-bloc pl-9">-->
-                <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
-                    <p class="m-0 font-sans">petits déjeuners</p>
-                    <p class="mt-0 font-script">pauses sucrées</p>
-                    <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -left-80px"></div>
-                </div>
+                <a href="{{ $page->baseUrl }}/exemples-pro-pauses/">
+                    <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
+                        <p class="m-0 font-sans">petits déjeuners</p>
+                        <p class="mt-0 font-script">pauses sucrées</p>
+                        <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -left-80px"></div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
@@ -85,11 +87,13 @@ title_img: /assets/img/main/main-professionnels.webp
                 </div>
             </div>
             <div class="absolute bottom-18 green-bloc3 w-300 h-300 left-16 pt-45px"> <!--</div> pt-4 pb-12 pr-10 -top-60px -left-30px w-300 h-480 green-bloc pl-9">-->
-                <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
-                    <p class="m-0 font-sans">plateaux</p>
-                    <p class="mt-0 font-script">repas</p>
-                    <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -right-80px"></div>
-                </div>
+                <a href="{{ $page->baseUrl }}/exemples-pro-plateaux/">
+                    <div class="relative mx-auto text-3xl text-center text-white w-213 h-201 green-title pt-55px">
+                        <p class="m-0 font-sans">plateaux</p>
+                        <p class="mt-0 font-script">repas</p>
+                        <div class="absolute h-1.4 bg-gray-900 w-15 top-95px -right-80px"></div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
