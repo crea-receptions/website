@@ -81,8 +81,11 @@ title_img: /assets/img/main/main-contact.webp
                         <div class="w-full px-4 sm:w-1/2 mt-7">
                             <input type="text" placeholder="Lieu *" name="place" value="" class="px-5 py-2.5 w-full bg-transparent border border-gray-400 border-solid rounded-lg" required/>
                         </div>
-                        <div class="w-full px-4 sm:w-1/2 mt-7">
-                            <input type="text" placeholder="Nombre de convives *" name="nbgguests" value="" class="px-5 py-2.5 w-full bg-transparent border border-gray-400 border-solid rounded-lg" required/>
+                        <div class="w-1/2 px-4 sm:w-1/4 mt-7">
+                            <input type="text" placeholder="Nb adultes *" name="nbgguestsadult" value="" class="px-5 py-2.5 w-full bg-transparent border border-gray-400 border-solid rounded-lg" required/>
+                        </div>
+                        <div class="w-1/2 px-4 sm:w-1/4 mt-7">
+                            <input type="text" placeholder="Nb enfants *" name="nbgguestschild" value="" class="px-5 py-2.5 w-full bg-transparent border border-gray-400 border-solid rounded-lg" required/>
                         </div>
                         <div class="w-full px-4 mt-7">
                             <textarea placeholder="Précisions complémentaires" name="text" value="" class="px-5 py-2.5 w-full h-52 bg-transparent border border-gray-400 border-solid rounded-lg"></textarea>
