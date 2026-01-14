@@ -1,5 +1,6 @@
 ---
-title: Créa Réceptions – Traiteur événementiel – Roquevaire – Marseille
+title: Créa Réceptions, Traiteur événementiel, Bouches-du-Rhône+Var
+description: Traiteur d'excellence depuis plus de 20 ans sur les Bouches-du-Rhône et le Var, Crea Réceptions sublime vos événements avec une cuisine raffinée.
 use_flickity: true
 sliders: [
     {
